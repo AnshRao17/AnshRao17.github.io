@@ -208,11 +208,13 @@ h1 {
   font-size: 3em;
   font-weight: normal;
   font-family: 'drukwide';
+  color: rgba(0, 0, 0, 0.1);
 }
 
 h1 span {
   font-size: 2rem;
   font-family: 'Lato';
+  color: rgba(0, 0, 0, 0.1);
 }
 
 #lol {
@@ -224,12 +226,14 @@ h1 span {
   text-transform: uppercase;
   font-family: 'drukwide';
   font-size: 20px;
+  color: rgba(0, 0, 0, 0.1);
 }
 
 #lol span {
   display: block;
   font-size: 4.5rem;
   font-size: 15px;
+  color: rgba(0, 0, 0, 0.1);
 }
 
 
